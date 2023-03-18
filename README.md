@@ -5,7 +5,10 @@ In it's own words: "Introduction to the intellectual enterprises of computer sci
 
 Languages:
 
-	C
-	Python
-	SQL 
-	HTML/CSS/Javascript 
+> C
+
+> Python
+
+> SQL
+
+> HTML/CSS/Javascript 
