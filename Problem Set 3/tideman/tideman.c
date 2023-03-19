@@ -192,7 +192,6 @@ void print_winner(void)
             {
                 candidates[i] = "eee";
             }
-
         }
     }
     for (int i = 0; i < candidate_count; i++)
