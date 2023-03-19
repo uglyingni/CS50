@@ -2,7 +2,7 @@
 ## Filter
 Command line program that applies filters to BMPs.
 
-#### Filters
+### Filters
 * Greyscale
 * Reflection
 * Blur
